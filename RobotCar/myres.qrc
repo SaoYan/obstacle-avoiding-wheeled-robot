@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/myRes">
+        <file>Background.jpg</file>
+        <file>fresh.png</file>
+        <file>green.jpg</file>
+        <file>redcross.png</file>
+    </qresource>
+</RCC>
