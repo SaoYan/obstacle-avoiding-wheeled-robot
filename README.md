@@ -15,4 +15,4 @@
 	<li>Communication between upper and lower computer via serial port</li>
 </ul>
 
-You can view more details on project homepage - https://saoyan.github.io/obstacle-avoid-wheeled-robot/    
+You can view more details on project homepage - https://saoyan.github.io/obstacle-avoid-wheeled-robot/
