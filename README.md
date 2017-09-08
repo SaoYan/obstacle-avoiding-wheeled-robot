@@ -1,5 +1,6 @@
 # obstacle-avoiding-wheeled-robot
-**This is a GUI program based on OpenCV and Qt Creator**  
+
+This is a GUI program based on OpenCV and Qt Creator
 
 <center>
 <img class="image" src="https://github.com/SaoYan/obstacle-avoiding-wheeled-robot/blob/master/project-demo.jpg" alt="demo">
