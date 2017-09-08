@@ -8,8 +8,9 @@ This is a GUI program based on OpenCV and Qt Creator
 
 <h2>Requirements</h2>
 <ul class="require">
-	<li>Qt Creator</li>
-	<li>OpenCV 2 (need to change the configuration in .pro file)</li>
+    <li><a href="https://www.qt.io/ide/">Qt Creator</a></li>
+    <li><a href="http://opencv.org/">OpenCV</a> (either v2 or v3)</li>
+    <li>Either Window or Linux is OK (Qt Creator is a  cross-platform IDE)</li>
 </ul>
 
 <h2>Main Features</h2>
