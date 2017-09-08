@@ -1,6 +1,9 @@
 # obstacle-avoiding-wheeled-robot
-**This is a GUI program based on OpenCV and Qt Creator**
-<img class="image" src="obstacle-avoiding-wheeled-robot/blob/master/project-demo.jpg" alt="Alt Text">
+**This is a GUI program based on OpenCV and Qt Creator**  
+
+<center>
+<img class="image" src="https://github.com/SaoYan/obstacle-avoiding-wheeled-robot/blob/master/project-demo.jpg" alt="demo">
+</center>
 
 <h2>Requirements</h2>
 <ul class="require">
