@@ -1,6 +1,6 @@
 # obstacle-avoiding-wheeled-robot
-**This is a GUI program based on OpenCV and Qt Creator** 
-<img class="image" src="https://github.com/SaoYan/obstacle-avoiding-wheeled-robot/blob/master/project-demo.jpg" alt="Alt Text">
+**This is a GUI program based on OpenCV and Qt Creator**
+<img class="image" src="obstacle-avoiding-wheeled-robot/blob/master/project-demo.jpg" alt="Alt Text">
 
 <h2>Requirements</h2>
 <ul class="require">
@@ -10,9 +10,8 @@
 
 <h2>Main Features</h2>
 <ul class="main-feature">
-	<li>Object tracking via histogram matching</li>
-	<li>Arranging the control flow via finite state machine</li>
-	<li>Communication between upper and lower computer via serial port</li>
+	<li>Object tracking using histogram matching</li>
+	<li>Robot controlling through serial port using finite state machine software implementation</li>
 </ul>
 
 You can view more details on project homepage - https://saoyan.github.io/obstacle-avoid-wheeled-robot/
