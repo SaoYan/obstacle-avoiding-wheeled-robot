@@ -1,6 +1,7 @@
 # obstacle-avoiding-wheeled-robot
 
 [![DOI](https://zenodo.org/badge/89113325.svg)](https://zenodo.org/badge/latestdoi/89113325)
+[![AUR](https://img.shields.io/aur/license/yaourt.svg?style=plastic)](LICENSE)
 
 This is a GUI program based on OpenCV and Qt Creator
 
