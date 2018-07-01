@@ -22,4 +22,4 @@ This is a GUI program based on OpenCV and Qt Creator
 	<li>Robot controlling through serial port using finite state machine software implementation</li>
 </ul>
 
-You can view more details on project homepage - https://saoyan.github.io/obstacle-avoid-wheeled-robot/
+You can view more details on [project webpage](https://saoyan.github.io/posts/2017/04/23)
